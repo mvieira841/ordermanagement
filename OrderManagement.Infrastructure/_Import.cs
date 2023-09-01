@@ -1,0 +1,12 @@
+﻿global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.Data.SqlClient;
+global using Microsoft.EntityFrameworkCore;
+global using OrderManagement.Domain.Common;
+global using OrderManagement.Domain.Entities;
+global using OrderManagement.Domain.Interfaces;
+global using OrderManagement.Infrastructure.Persistence.Context;
+global using OrderManagement.Shared.Extensions;
+global using OrderManagement.Shared.Models;
+global using System.Reflection;
+global using OrderManagement.Infrastructure.Persistence.Constants;
